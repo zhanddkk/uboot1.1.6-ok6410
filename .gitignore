@@ -1,0 +1,9 @@
+.svn/
+*.o
+*.bin
+*.elf
+*.map
+*.dis
+*.tmp
+*.log
+
